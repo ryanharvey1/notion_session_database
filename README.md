@@ -44,9 +44,11 @@ touch .env
 
 Add the following content to your .env file, replacing the placeholders with your own values:
 
+```bash
 NOTION_API_KEY=your_notion_api_key
 ROOT_DIR=path_to_your_data_directory
 DATABASE_ID=your_notion_database_id
+```
 
 * NOTION_API_KEY: Your Notion integration token (you can get it from [Notion Developers](https://developers.notion.com/docs/authorization)).
 * ROOT_DIR: The root directory where your session data is stored (e.g., U:/data/my_project).
