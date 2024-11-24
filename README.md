@@ -1,6 +1,6 @@
 # Notion Session Database
 
-This tool allows you to manage and update session data in Notion for electrophysiology neuro data analysis. It scans a directory structure containing data for different animals and sessions, and updates a Notion database with session statuses (e.g., "sessions to be preprocessed", "sessions to spike sort", etc.).
+This tool allows you to manage and update the processing status of a dataset in Notion. It scans a directory containing data for different participants/subjects and their corresponding sessions and updates a Notion database with session statuses (e.g., "sessions to be preprocessed", "sessions to spike sort", etc.).
 
 ## Features
 - Automatically determines session status based on directory contents.
