@@ -74,7 +74,7 @@ Database ID: 24333fxca51080139509b5759d5776ec
 Once your environment is set up and your .env file is configured, you can run the script to update the Notion database:
 
 ```bash
-python update_notion_database.py
+python database_update.py
 ```
 
 The script will:
