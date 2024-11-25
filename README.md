@@ -68,7 +68,7 @@ You can find your database ID by opening your database in Notion and copying the
 Example URL:
 https://www.notion.so/24333fxca51080139509b5759d5776ec?v=5dec6d11v7f28999af283f5204cb6a4c
 
-The database ID will be the numbers following the ?v=, for example:
+The database ID will be the numbers before the ?, for example:
 
 Database ID: 24333fxca51080139509b5759d5776ec
 
